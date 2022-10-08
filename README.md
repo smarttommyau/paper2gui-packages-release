@@ -8,8 +8,10 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 > 经过两个月的开发，我们将现有的优秀AI模型进行了统一融合，Paper2GUI 现在有了一个中文名“小白兔AI”。
 
 ![](docs/images/xiaobaituai.png)
-
 下载地址：[Download](https://download.fastgit.org/Baiyuetribe/paper2gui/releases/download/Published/XiaoBaituAI_windows.zip)
+
+# 一鍵下載 ALL PACKAGE IN ONE DOWNLOAD
+[Download HERE](https://github.com/smarttommyau/paper2gui-packages-release/releases/tag/Published/)
 
 ### 已发布内容【单独APP完全免费】
 
